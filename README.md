@@ -1,5 +1,5 @@
 ## Gitblog
-My personal blog using issues and GitHub Actions (随意转载，无需署名)
+My personal blog using issues and GitHub Actions    
 [RSS Feed](https://raw.githubusercontent.com/AlanRayburn/gitblog_backup/main/feed.xml)
 ## 友情链接
 | Name | Link | Desc | 
