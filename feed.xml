@@ -1,1 +1,4 @@
-
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/AlanRayburn/gitblog_backup</id><title>RSS feed of AlanRayburn's gitblog_backup</title><updated>2022-05-09T10:33:21.832290+00:00</updated><author><name>AlanRayburn</name><email>alanrayburn85@gmail.com</email></author><link href="https://github.com/AlanRayburn/gitblog_backup"/><link href="https://raw.githubusercontent.com/AlanRayburn/gitblog_backup/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/AlanRayburn/gitblog_backup/issues/1</id><title>一个blog备份仓库</title><updated>2022-05-09T10:33:22.066080+00:00</updated><content type="html"><![CDATA[<p>##这是一篇测试提交
+作为文章备份使用。</p>
+]]></content><link href="https://github.com/AlanRayburn/gitblog_backup/issues/1" rel="alternate"/><published>2022-04-27T07:09:11+00:00</published></entry></feed>
